@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\Client Builder.exe.config
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\Client Builder.exe
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\Client Builder.pdb
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\dnlib.dll
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\PacketLib.dll
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\Vestris.ResourceLib.dll
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\dnlib.xml
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\Vestris.ResourceLib.xml
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Debug\Client Builder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Debug\Client Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Debug\Client_Builder.Form1.resources
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Debug\Client_Builder.Properties.Resources.resources
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Debug\Client Builder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Debug\Client Builder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Debug\Client Builder.csproj.CopyComplete
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Debug\Client Builder.exe
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Debug\Client Builder.pdb
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Debug\Guna.UI2.dll

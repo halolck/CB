@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\Client Builder.exe.config
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\Client Builder.exe
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\Client Builder.pdb
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\dnlib.dll
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\PacketLib.dll
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\Vestris.ResourceLib.dll
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\dnlib.xml
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Client Builder\Client Builder\bin\Release\Vestris.ResourceLib.xml
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Release\Client Builder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Release\Client Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Release\Client_Builder.Form1.resources
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Release\Client_Builder.Properties.Resources.resources
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Release\Client Builder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Release\Client Builder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Release\Client Builder.csproj.CopyComplete
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Release\Client Builder.exe
+C:\Users\User\source\repos\Client Builder\Client Builder\obj\Release\Client Builder.pdb
